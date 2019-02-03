@@ -43,4 +43,3 @@
     "zalgolize": "^1.2.4"
   }
 }
-client.login(process.env.BOT_TOKEN);
