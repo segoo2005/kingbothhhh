@@ -5,7 +5,7 @@ const client = new Discord.Client();
   
 client.on('ready', () => {
   console.log(Logged in {clientusertag
-});
+})
 
 
 client.on('ready', async() => {
